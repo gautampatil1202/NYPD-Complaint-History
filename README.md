@@ -1,9 +1,9 @@
 # NYPD Complaint History – Big Data Processing Pipeline
 
 ## Project Overview
-This project analyzes large-scale public safety data from New York City using Big Data technologies. The core dataset is the **NYPD Complaint Historic Dataset (2006–2025)**, containing millions of crime records across NYC. **The file named NYPD_Complaints_(Main_File).ipynb contains the main notebook details.**
+This project analyzes large-scale public safety data from New York City using Big Data technologies. The core dataset is the NYPD Complaint Historic Dataset (2006–2025), containing millions of crime records across NYC. **The file named NYPD_Complaints_(Main_File).ipynb contains the main notebook details.**
 
-Instead of simple analysis, we've built a **scalable and reusable data pipeline using Apache Spark** to:
+Instead of simple analysis, we've built a scalable and reusable data pipeline using Apache Spark to:
 - Clean, enrich, and profile the data
 - Integrate additional datasets like arrests, shootings, and emergency responses
 - Generate structured outputs for dashboards, machine learning, or research
